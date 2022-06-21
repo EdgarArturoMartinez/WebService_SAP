@@ -1,0 +1,51 @@
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Casual Leasing\Consumir_SAP_WS\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.exe.config
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Casual Leasing\Consumir_SAP_WS\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.exe
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Casual Leasing\Consumir_SAP_WS\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.pdb
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Casual Leasing\Consumir_SAP_WS\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.xml
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Casual Leasing\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Casual Leasing\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.Resources.resources
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Casual Leasing\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Casual Leasing\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Casual Leasing\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.exe
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Casual Leasing\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.xml
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Casual Leasing\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.pdb
+\\200emartinez_p\d$\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Retail\Casual Leasing\Web Services\Consumir_SAP_WS\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.exe.config
+\\200emartinez_p\d$\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Retail\Casual Leasing\Web Services\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.exe
+\\200emartinez_p\d$\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Retail\Casual Leasing\Web Services\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.xml
+\\200emartinez_p\d$\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Retail\Casual Leasing\Web Services\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.pdb
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Retail\Casual Leasing\Web Services\Consumir_SAP_WS\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.exe.config
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Retail\Casual Leasing\Web Services\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.exe
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Retail\Casual Leasing\Web Services\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.xml
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Retail\Casual Leasing\Web Services\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.pdb
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Retail\Casual Leasing\Web Services\Consumir_SAP_WS\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.exe
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Retail\Casual Leasing\Web Services\Consumir_SAP_WS\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.pdb
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Retail\Casual Leasing\Web Services\Consumir_SAP_WS\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.xml
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Retail\Casual Leasing\Web Services\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.Resources.resources
+D:\Edgar Arturo Martinez\Gabmer\Desarrollo y Evoluciones\Retail\Casual Leasing\Web Services\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.vbproj.GenerateResource.Cache
+\\296imb02\WF Casual Leasing\Modelos del Proceso\Consumir_SAP_WS\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.exe.config
+\\296imb02\WF Casual Leasing\Modelos del Proceso\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.exe
+\\296imb02\WF Casual Leasing\Modelos del Proceso\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.xml
+\\296imb02\WF Casual Leasing\Modelos del Proceso\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.pdb
+\\296imb02\WF Casual Leasing\Modelos del Proceso\Consumir_SAP_WS\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.exe
+\\296imb02\WF Casual Leasing\Modelos del Proceso\Consumir_SAP_WS\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.pdb
+\\296imb02\WF Casual Leasing\Modelos del Proceso\Consumir_SAP_WS\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.xml
+\\296imb02\WF Casual Leasing\Modelos del Proceso\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.Resources.resources
+\\296imb02\WF Casual Leasing\Modelos del Proceso\Consumir_SAP_WS\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.vbproj.GenerateResource.Cache
+D:\Edgar Arturo Martinez\Desarrollo\Web_Service_SAP\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.exe.config
+D:\Edgar Arturo Martinez\Desarrollo\Web_Service_SAP\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.exe
+D:\Edgar Arturo Martinez\Desarrollo\Web_Service_SAP\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.xml
+D:\Edgar Arturo Martinez\Desarrollo\Web_Service_SAP\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.pdb
+D:\Edgar Arturo Martinez\Desarrollo\Web_Service_SAP\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.exe
+D:\Edgar Arturo Martinez\Desarrollo\Web_Service_SAP\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.pdb
+D:\Edgar Arturo Martinez\Desarrollo\Web_Service_SAP\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.xml
+D:\Edgar Arturo Martinez\Desarrollo\Web_Service_SAP\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.Resources.resources
+D:\Edgar Arturo Martinez\Desarrollo\Web_Service_SAP\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.vbproj.GenerateResource.Cache
+D:\Edgar Arturo Martinez\Desarrollo\Finished_Projects\Web_Service_SAP\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.exe.config
+D:\Edgar Arturo Martinez\Desarrollo\Finished_Projects\Web_Service_SAP\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.exe
+D:\Edgar Arturo Martinez\Desarrollo\Finished_Projects\Web_Service_SAP\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.xml
+D:\Edgar Arturo Martinez\Desarrollo\Finished_Projects\Web_Service_SAP\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.pdb
+D:\Edgar Arturo Martinez\Desarrollo\Finished_Projects\Web_Service_SAP\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.Resources.resources
+D:\Edgar Arturo Martinez\Desarrollo\Finished_Projects\Web_Service_SAP\Consumir_SAP_WS\obj\x86\Debug\Consumir_SAP_WS.vbproj.GenerateResource.Cache
+D:\Edgar Arturo Martinez\Desarrollo\Finished_Projects\Web_Service_SAP\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.exe
+D:\Edgar Arturo Martinez\Desarrollo\Finished_Projects\Web_Service_SAP\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.pdb
+D:\Edgar Arturo Martinez\Desarrollo\Finished_Projects\Web_Service_SAP\Consumir_SAP_WS\bin\Debug\Consumir_SAP_WS.xml
